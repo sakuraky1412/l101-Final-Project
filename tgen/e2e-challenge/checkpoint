@@ -1,0 +1,3 @@
+model_checkpoint_path: "model.tfsess.tfsess"
+all_model_checkpoint_paths: "/var/folders/6z/p0bkjgc50gngxvgk2dbkkycw0000gn/T/tgen-t2n1d5wq/ckpt"
+all_model_checkpoint_paths: "model.tfsess.tfsess"

@@ -1,0 +1,12 @@
+.project
+.pydevproject
+.idea
+.settings
+*.treex.gz
+*.yaml.gz
+*.pickle.gz
+*.pyc
+.*.swp
+*.backup
+*/input
+
