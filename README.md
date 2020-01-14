@@ -2,7 +2,7 @@
 
 Attempt to increase output diversity by reimplementing range voting on the TGen model beam search
 
-This project largely credited to [TGen](https://github.com/UFAL-DSG/tgen), [e2e_metrics](https://github.com/tuetschek/e2e-metrics), and the paper [Leveraging sentence similarity in natural language generation: Improving beam search using range voting](https://arxiv.org/abs/1908.06288), since it merely reimplements the range voting approach to the TGen baseline. 
+This project is largely credited to [TGen](https://github.com/UFAL-DSG/tgen), [e2e_metrics](https://github.com/tuetschek/e2e-metrics), and the paper [Leveraging sentence similarity in natural language generation: Improving beam search using range voting](https://arxiv.org/abs/1908.06288), since it merely reimplements the range voting approach to the TGen baseline. 
 
 ## TGen outputs
 
